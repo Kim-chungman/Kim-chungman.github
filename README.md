@@ -3,7 +3,7 @@
 # 김충만의 github 홈페이지​
 
 ## 자기소개
-![2160340092 jpg](https://user-images.githubusercontent.com/79954014/109755344-2e773600-7c29-11eb-9e96-a34d1298134b.JPG)
+![증명사진](https://user-images.githubusercontent.com/79954014/109755654-b9583080-7c29-11eb-8f21-41c62ef02b84.JPG)
 이름 : 김충만
 나이 : 27
 학과 : 광명융합기술교육원 데이터분석과
