@@ -22,7 +22,7 @@
 ## 발표 동영상​
 
 발표 동영상입니다.​
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Reference​
