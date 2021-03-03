@@ -17,9 +17,8 @@
 
 ## 전체 설계도​
 
-<img src="architecture.png"/><br> ​
+[김충만 자기소개(데이터분석과).pdf](https://github.com/Kim-chungman/Kim-chungman.github.io/files/6073694/default.pdf)
 
-[발표자료]"김충만 자기소개(데이터분석과).pdf"​
 
 ## 발표 동영상​
 
