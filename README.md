@@ -17,6 +17,7 @@
 발표 동영상입니다.​
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>​
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=reOGfxYJre0" frameborder="0"></iframe>
 
 ## Reference​
 
