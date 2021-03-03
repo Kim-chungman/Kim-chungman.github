@@ -1,6 +1,5 @@
-# Kim-chungman.github.io
 
-# 김충만의 github 홈페이지​
+# 김충만의 github 홈페이지입니다~^^​
 
 ## 자기소개
 ![증명사진](https://user-images.githubusercontent.com/79954014/109755654-b9583080-7c29-11eb-8f21-41c62ef02b84.JPG)
