@@ -22,10 +22,26 @@
 ## 발표 동영상​
 
 발표 동영상입니다.​
+1. Github 사용법
 <iframe width="700" height="394" src="https://www.youtube.com/embed/kmkhHwxp7-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+2. SourceTree사용법
 <iframe width="745" height="394" src="https://www.youtube.com/embed/Mq9ImloByN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+3. Apache와 Tomcat 연동 후 App deploy
+<iframe width="900" height="506" src="https://www.youtube.com/embed/chg4tFVmckM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+4. Oracle WebLogic 설치 및 Apache, Tomcat 연동 후 App delploy
+<iframe width="900" height="506" src="https://www.youtube.com/embed/nFqG0ba4SN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+5. Google Cloud Platform Apache-Tomcat 연동 후 app deploy
+<iframe width="900" height="506" src="https://www.youtube.com/embed/zsszv6D7YYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+6. Java 도서관리 프로그램
+<iframe width="900" height="506" src="https://www.youtube.com/embed/osXfNwd7rgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+7. CUSTOMER를 대상으로 한 지역 평균 소비지출 분석 및 마케팅
+<iframe width="900" height="506" src="https://www.youtube.com/embed/fJkqJQxmCMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference​
 
